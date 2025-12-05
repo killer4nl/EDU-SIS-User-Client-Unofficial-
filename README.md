@@ -1,4 +1,4 @@
-````md
+
 # EDU SIS User Client (Unofficial)
 
 **Compatibel met:** ParnasSys (NL) — *onofficieel, niet gelieerd en niet ondersteund door de leverancier.*
@@ -331,5 +331,3 @@ else:
 
 Dit project is een onafhankelijke, onofficiële client. Alle merknamen en handelsnamen zijn eigendom van hun respectieve houders en worden uitsluitend gebruikt om compatibiliteit te beschrijven.
 
-```
-```
