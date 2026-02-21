@@ -1,5 +1,5 @@
 
-# EDU SIS User Client (Unofficial) (file soon)
+# EDU SIS User Client (ParnasSys Rest API) (Unofficial)
 
 **Compatibel met:** ParnasSys (NL) — *onofficieel, niet gelieerd en niet ondersteund door de leverancier.*
 
